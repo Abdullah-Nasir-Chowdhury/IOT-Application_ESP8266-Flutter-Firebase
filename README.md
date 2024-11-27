@@ -54,13 +54,13 @@ samples, guidance on mobile development, and a full API reference.
 </p>
 
 ### Bulb States
-<p>
+<p align="center">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase/blob/master/image_2.png?raw=true" alt="Bulb on State" width="200">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase/blob/master/image_3.png?raw=true" alt="Bulb on State" width="200">
 </p>
 
 ### Firebase RTDB States
-<p>
+<p align='center'>
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase/blob/master/image_4.png?raw=true" alt="Firebase Bulbstate" width="200"> 
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/IOT-Application_ESP8266-Flutter-Firebase/blob/master/image_5.png?raw=true" alt="Firebase Bulbstate" width="200"> 
 </p>
