@@ -1,10 +1,13 @@
-# iot1
+# An IoT Application using ESP8266 Flutter and Firebase
 
-A new Flutter project.
+This application demonstrates how to build an IoT application using ESP8266, Flutter and Firebase. You will have to make edits to the code after you download the repository in order to make it work, as I have removed the firebase credentials from my version of the code.
+
+## YouTube Link
+
+- [Click here for YouTube Video](https://www.youtube.com/watch?v=JxMownOBc4A)
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +17,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
